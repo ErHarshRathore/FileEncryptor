@@ -1,0 +1,24 @@
+
+			!!..HEY THERE..!!
+
+	            WELCOME IN MY ABOUT ME SECTION
+
+	I am Er. Harsh Rathore, a software engineering student in Mahakal
+Institude of Technology and Management, Ujjain(M.P.), India.
+
+	I have passionate about coding, designing and software developement.
+When developing this project I was in VI semester of my four year of engineering life. At that time I knew mostly used programming languages like C/C++,Java, Python with SQL and some web technologies like HTML, CSS and JavaScript.
+
+	I have done some personal projects before this one like a 'simple snake game' with C++, my own website with HTML/CSS. I am extremly intrested in   three fields where I want to make my carrier :
+        • Artificial Intelligence
+        • Game Development (2D & 3D both)
+        • Interactive GUI Development (like this application)
+
+	This is my first official project for college purpose. In this project my   aim was to implement a faster and more secured " Cryptographic Algorithm " . I studied and researched for a long time and finally I designed a new cryptogra-phic algorithm with the help of some references. I named this algorithm as the   "ACD&M algorithm".Here ACD&M stands for Advanced Circular-Shift Divide & Multiply these are some of the main stages of this algo.
+
+	 I have implemented this algorithm in Python (A Computer Program-ming Language) with language version 3.7.2 which was latest in March 2019.
+The reason to choose Python is that it is a very easy, fast developing and high lev-el programming language with a powerful Math library and interactive Tkinter GUI (Graphical User Interface) toolkit. All the thing you are interacting with in this software has been made with pure Python coding done by me.
+
+	I hope you will " Like and Enjoy " this application software and will keep secured with it.You can also give me some feedbacks about this applicationsoftware using one of the following link listed below in the footer. 
+
+						    ....Thanking You

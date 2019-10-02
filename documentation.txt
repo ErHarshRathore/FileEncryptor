@@ -1,0 +1,103 @@
+
+ ________________________Welcome to our help Window_________________________
+ 
+Help Index :
+
+        1. Cryptography
+
+	1.1 Encryption
+
+	1.2 Decryption
+
+	1.3 Key
+
+        2. Security with Us
+
+        3. Encryption Window
+
+        5. Valid Key
+
+        4. Decryption Window
+
+        6. Random Key Window
+_________________________________________________________________________
+
+ ______________________________Cryptography_______________________________
+
+	Cryptography involves creating written or generated codes that allow information  to be kept secret. Cryptography converts data into a format that is unreadable for an unaut-horized person, allowing it to be transmitted without unauthorized entities decoding it back  into a readable format, thus compromising the data.
+
+	Information security uses cryptography on several levels. The information cannot be read without a key to decrypt it. The information maintains its integrity during transit & while being stored. Cryptography also aids in nonrepudiation. This means that the sender & the delivery of a message can be verified.
+
+Cryptography is also known as cryptology.
+
+• Encryption: The process of converting information or data into a code, especially to prevent 	       unauthorized access.
+
+• Decryption: Decryption is the process of transforming data that has been rendered unread-		      able through encryption back to its unencrypted form.
+
+______________________________Security with Us______________________________
+
+	In this software a new Cryptographic technique has been used that is faster then  other algorithms with a high level of security. User Security level is depends totally on the    Cryptographic that user have choosed during the encryption.
+
+	x bits encryption provides you total y different possible security combinations.
+
+    • For x  32 >>>  y will be 325,802,500
+
+    • For x  64 >>>  y will be 2,520,997,638,898,437,500 
+
+    • For x 128 >>> y will be 1,588,857,273,832,874,168,897,109,985,351,562,500
+
+    • For x 256 >>> y will be 631,116,859,152,908,222,796,421,639,757,389,692,547,820,23				3,798,120170,831,680,297,851,562,500
+
+	These amount of combination is mind blowing, a hacker or unauthorized person  never ever can break this security using brute force attack or other techniques.
+
+_____________________________Encryption Window____________________________ 
+
+	A encryption window will take a readable file as input ,you can choose a file from   your file manager also.
+
+	In second phase it will ask you for encryption method that you can choose as per   your required security level.
+
+	Finally it will ask you for a valid encryption private key that will be defined by you
+
+	After all click on the proceed button, The resultant will be a new file name as 
+"<given filename with extension>.enc" in same folder.
+
+_____________________________Decryption Window____________________________
+
+	A decryption window will take a encrypted file as input ,you can choose a file from   your file manager also.
+
+	In second phase it will ask you for encryption method that you have choosen at the time of encryption.
+
+	Finally it will ask you for a valid encryption private key has been defined by you.
+
+	After all click on the proceed button, The resultant will be a new file name as 
+"<given filename with extension>.txt" in same folder.
+
+________________________________Valid Key_________________________________
+
+	For each and every different encryption Technique there will be its respective valid key.
+
+	A valid key can contain :
+	    • [A-Z] letters
+	    • [a-z] letters
+	    • [0-9] digits
+	    • set of special characters i.e. following :
+		[ <space> ! " # $ % & ' ( ) * + , - . / : ; < = > ? @ [ \ ] ^ _ ` { | } ~ ]
+
+	While the length of a valid key can be less then or equal to y for x bits encryption.
+	    • For x  32  >>> y will be 4
+	    • For x  64  >>> y will be 9
+	    • For x 128 >>> y will be 18
+	    • For x 256 >>> y will be 36
+
+____________________________Random Key Window ___________________________
+
+	If you are a novice with cryptography or there is no any valid key popping in your mind during the time of encryption, then you can make a computer generated random key
+with its respective encryption method.
+
+	You can select the generated random key using CTRL+A
+	Then you can copy it using CTRL+C
+	Then you can paste the key into key input box of encryption or decryption window using CTRL+V.
+_________________________________________________________________________
+
+						                ...Enjoy Cryptography
+
